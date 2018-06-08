@@ -1,18 +1,10 @@
--- This file was automatically generated for the LuaDist project.
-
 package = "telegram-bot-api"
-version = "3.5.0.0-0"
+version = "3.5.0.1-0"
 
--- LuaDist source
 source = {
-  tag = "3.5.0.0-0",
-  url = "git://github.com/LuaDist-testing/telegram-bot-api.git"
+	url = "git://github.com/yangm97/lua-telegram-bot-api",
+	tag = "3.5.0.1"
 }
--- Original source
--- source = {
--- 	url = "git://github.com/yangm97/lua-telegram-bot-api",
--- 	tag = "3.5.0.0"
--- }
 
 description = {
 	summary = "Telegram Bot API bindings and utilities",
